@@ -1,0 +1,12 @@
+{
+  "block.coffee_machine.working": {
+    "category": "block",
+    "subtitle": "block.coffee_machine.working",
+    "sounds": [
+      {
+        "name": "coffeemod:block/coffee_machine_working",
+        "stream": true
+      }
+    ]
+  }
+}

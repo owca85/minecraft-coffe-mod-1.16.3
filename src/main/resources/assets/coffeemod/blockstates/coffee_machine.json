@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "facing=north,state=idle": {"model": "coffeemod:block/coffee_machine"},
+    "facing=south,state=idle": {"model": "coffeemod:block/coffee_machine", "y": 180},
+    "facing=west,state=idle": {"model": "coffeemod:block/coffee_machine", "y": 270},
+    "facing=east,state=idle": {"model": "coffeemod:block/coffee_machine", "y": 90},
+    "facing=north,state=working": {"model": "coffeemod:block/coffee_machine_working"},
+    "facing=south,state=working": {"model": "coffeemod:block/coffee_machine_working", "y": 180},
+    "facing=west,state=working": {"model": "coffeemod:block/coffee_machine_working", "y": 270},
+    "facing=east,state=working": {"model": "coffeemod:block/coffee_machine_working", "y": 90}
+  }
+}
+

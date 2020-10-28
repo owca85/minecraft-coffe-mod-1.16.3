@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "half=lower,age=0": { "model": "coffeemod:block/coffee_bush_bottom_0" },
+    "half=lower,age=1": { "model": "coffeemod:block/coffee_bush_bottom_1" },
+    "half=lower,age=2": { "model": "coffeemod:block/coffee_bush_bottom_2" },
+    "half=lower,age=3": { "model": "coffeemod:block/coffee_bush_bottom_3" },
+    "half=lower,age=4": { "model": "coffeemod:block/coffee_bush_bottom_4" },
+    "half=lower,age=5": { "model": "coffeemod:block/coffee_bush_bottom_5" },
+    "half=lower,age=6": { "model": "coffeemod:block/coffee_bush_bottom_6" },
+    "half=lower,age=7": { "model": "coffeemod:block/coffee_bush_bottom_7" },
+    "half=upper,age=4": { "model": "coffeemod:block/coffee_bush_top_4" },
+    "half=upper,age=5": { "model": "coffeemod:block/coffee_bush_top_5" },
+    "half=upper,age=6": { "model": "coffeemod:block/coffee_bush_top_6" },
+    "half=upper,age=7": { "model": "coffeemod:block/coffee_bush_top_7" }
+  }
+}

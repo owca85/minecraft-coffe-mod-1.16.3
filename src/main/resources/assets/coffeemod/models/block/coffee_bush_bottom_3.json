@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "coffeemod:blocks/coffee_bush_bottom_3"
+  }
+}
